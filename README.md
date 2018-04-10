@@ -9,7 +9,7 @@ The contract is live on the Rinkeby test network.  Before we deploy to main ethe
 
 
 # How we built it
-Solidity, Swift, Core Location
+Solidity, Swift, Core Location, web3swift
 # How we tested it
 Rinkeby test net, MetaMask
 
